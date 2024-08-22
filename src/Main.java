@@ -2,6 +2,9 @@ import java.util.Random;
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
+        //Brayan David Cuitiva Umbarila
+        //Ejercicio de apuesta y gana a partir de un numero aleatorio entre 1 y 3, con 1 se gana el doble, con 2 se pierde la mitad y con el 3 se pierde todo
+        //22-08-2024
         Random ran = new Random();
         Scanner sc = new Scanner(System.in);
         int din = 0, num = 0, ejec = 0, op = 0;
